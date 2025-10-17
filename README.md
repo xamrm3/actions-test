@@ -1,4 +1,4 @@
-This repo if for me to learn about GitHub Actions with code from a LinkedIn Learning course
+This repo is for me to learn about GitHub Actions with code from a LinkedIn Learning course
 
 # The Future in Tech
 
