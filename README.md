@@ -1,3 +1,5 @@
+This repo if for me to learn about GitHub Actions with code from a LinkedIn Learning course
+
 # The Future in Tech
 
 <img src="https://raybo.org/tfit-feed/images/artwork.jpg" width="250">
